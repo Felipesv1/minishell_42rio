@@ -27,5 +27,9 @@ Este projeto faz parte do currículo da 42rio e consiste na implementação de u
 
 ```bash
 make
+```
 
+## Execução
 
+```bash
+./minishell
